@@ -6,6 +6,7 @@
   "author": "João Victor <jvfernandes.contato@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^19.11.0"
+    "puppeteer": "^19.11.0",
+    "readline-sync": "^1.4.10"
   }
 }
